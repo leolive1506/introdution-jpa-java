@@ -10,6 +10,6 @@ public class App {
 		System.out.println(pessoa);
 		System.out.println(pessoa2);
 		System.out.println(pessoa3);
-
+		
 	}
 }
